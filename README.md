@@ -7,13 +7,11 @@ High Striker is a game to test your strenth. It consists in a hammer where the c
 
 ![alt text]()
 
-For more datails, see the video below:
+For datails, see the video below or [click here](https://youtu.be/iCO8CMlc4_0)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=iCO8CMlc4_0
 " target="_blank"><img src="http://img.youtube.com/vi/iCO8CMlc4_0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-https://youtu.be/iCO8CMlc4_0
 
 ## History
 
