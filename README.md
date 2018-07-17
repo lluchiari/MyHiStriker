@@ -17,8 +17,9 @@ For datails, see the video below or [click here](https://youtu.be/iCO8CMlc4_0)
 " target="_blank"><img src="http://img.youtube.com/vi/iCO8CMlc4_0/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="9" /></a>
 
-## History
 
+## History
+This toy was used in 
 
 # How THIS High Striker works?
 
@@ -28,7 +29,12 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="9" /></a>
 
 ## Assembly
 
-This project was developed by myself with help of some friends. It's a model for building step by step for building 
 
-It's repo to manage the project of a Game called High Strike.
-Updates are comming........hold on!
+# Other References
+
+Other projects can be seen in:
+
+<a href="http://www.jmillerid.com/wordpress/tag/hi-striker/" />
+
+
+
