@@ -1,8 +1,8 @@
 
 # MyHiStriker
-
+```
 The project is still in progress.......<img width="70" height="70" src="https://github.com/lluchiari/MyHiStriker/raw/master/images/in_progress.png" />
-
+```
 This project is an electronic model of a High Striker toy for measure hit strength. The project was based on different kids of High Strikers and is an adaptation created by the author with the help of a few friends. 
 
 
@@ -51,5 +51,6 @@ eyJoaXN0b3J5IjpbLTE2NzkxNzA3MDJdfQ==
 -->
 >>>>>>> 5a1efdd9355d698b0dd678a1d6c61061bb43e1fe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODczNDQwNywtMTYwMTE5OTI5NV19
+eyJoaXN0b3J5IjpbLTExMjA4NDI4NTEsMTIzODczNDQwNywtMT
+YwMTE5OTI5NV19
 -->
