@@ -4,6 +4,8 @@
 This project is an electronic model of a High Striker toy for measure hit strength. The project was based on different kids of High Strikers and is an adaptation created by the author with the help of a few friends. 
 
 The project is still in progress....
+<img width="240" height="240" src="https://github.com/lluchiari/MyHiStriker/raw/master/images/in_progress.png" />
+
 
 ## What is?
 
@@ -32,3 +34,7 @@ This project was developed by myself with help of some friends. It's a model for
 
 It's repo to manage the project of a Game called High Strike.
 Updates are comming........hold on!
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NzkxNzA3MDJdfQ==
+-->
