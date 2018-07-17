@@ -5,7 +5,7 @@ This project is an electronic model of a High Striker toy for measure hit streng
 
 The project is still in progress....
 
-<img width="50" height="50" src="https://github.com/lluchiari/MyHiStriker/raw/master/images/in_progress.png" />
+<img width="70" height="70" src="https://github.com/lluchiari/MyHiStriker/raw/master/images/in_progress.png" />
 
 
 ## What is?
@@ -51,5 +51,5 @@ eyJoaXN0b3J5IjpbLTE2NzkxNzA3MDJdfQ==
 -->
 >>>>>>> 5a1efdd9355d698b0dd678a1d6c61061bb43e1fe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyMTQ4NDQxLC0xNjAxMTk5Mjk1XX0=
+eyJoaXN0b3J5IjpbMTA0NDgxNzI0NSwtMTYwMTE5OTI5NV19
 -->
