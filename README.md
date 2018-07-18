@@ -31,6 +31,7 @@ The mechanical parts consists in two main parts:
 
  - Tower
  - Striker
+ 
 ### Tower
 The tower is the part where the "puck" or the "lights" is going to be placed and is where the points scale will be shown to the contestant.
 
@@ -42,6 +43,9 @@ This is where the contestant will strike the hammer. It will receive all the imp
 <img src="https://github.com/lluchiari/MyHiStriker/raw/master/images/img3.jpg" />
 
 In this project was developed a different striker. It consists in a base, a piston, and a strong compression spring. 
+
+#### Base
+
 
 ## Electronics
 
@@ -56,8 +60,8 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDEzMTMxMSw2MzYwOTUxMjcsLTEyMT
-I0MDMwMzgsMTQ3NzY0MzE4MywtMTAyMDQ3Njk2NSwtMTkyOTIw
-NDY5Niw4OTQ1ODk2NDEsMTIzODczNDQwNywtMTYwMTE5OTI5NV
-19
+eyJoaXN0b3J5IjpbMTkyNDczMDgxMCwtMzYwMTMxMzExLDYzNj
+A5NTEyNywtMTIxMjQwMzAzOCwxNDc3NjQzMTgzLC0xMDIwNDc2
+OTY1LC0xOTI5MjA0Njk2LDg5NDU4OTY0MSwxMjM4NzM0NDA3LC
+0xNjAxMTk5Mjk1XX0=
 -->
