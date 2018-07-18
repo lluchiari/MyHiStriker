@@ -87,7 +87,7 @@ Electronic section is divided in:
 In this project was used an [Arduino Nano](https://store.arduino.cc/usa/arduino-nano), but feel free to use any other Arduino or microcontroller you desire.
 
 ### Light Driver
-The LED, Light, Driver 
+The Driver used is described in other project. It can be see in this [link here](https://github.com/lluchiari/LighterBoard).
 ## Assembly
 
 
@@ -99,7 +99,7 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzA3MTk1LC0xNzU4MTU5ODkzLDE3NT
+eyJoaXN0b3J5IjpbMTk4MDY5NzUwLC0xNzU4MTU5ODkzLDE3NT
 c4NDc2OTgsNjUyNDg5NTQsLTU1MDkyNzQyNiwyMDk2Mjg0NTM2
 LC0xNDk3OTU2NzgyLC0zNjAxMzEzMTEsNjM2MDk1MTI3LC0xMj
 EyNDAzMDM4LDE0Nzc2NDMxODMsLTEwMjA0NzY5NjUsLTE5Mjky
