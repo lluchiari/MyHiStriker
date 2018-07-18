@@ -22,7 +22,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="9" /></a>
 
 
 ## History
-This toy was used in 
+This toy was used in carnivals....
 
 # How THIS High Striker works?
 
@@ -51,6 +51,6 @@ eyJoaXN0b3J5IjpbLTE2NzkxNzA3MDJdfQ==
 -->
 >>>>>>> 5a1efdd9355d698b0dd678a1d6c61061bb43e1fe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0NTg5NjQxLDEyMzg3MzQ0MDcsLTE2MD
-ExOTkyOTVdfQ==
+eyJoaXN0b3J5IjpbLTY5NTk1MDg2OCw4OTQ1ODk2NDEsMTIzOD
+czNDQwNywtMTYwMTE5OTI5NV19
 -->
