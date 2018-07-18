@@ -49,9 +49,10 @@ This is where the contestant will strike the hammer. It will receive all the imp
 # Other References
 
 Other projects can be seen in:
-[Jmillerid Project](http://www.jmillerid.com/wordpress/tag/hi-striker/)
+- [http://www.jmillerid.com/wordpress/tag/hi-striker/](http://www.jmillerid.com/wordpress/tag/hi-striker/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2OTgyOTg0LDE0Nzc2NDMxODMsLTEwMj
-A0NzY5NjUsLTE5MjkyMDQ2OTYsODk0NTg5NjQxLDEyMzg3MzQ0
-MDcsLTE2MDExOTkyOTVdfQ==
+eyJoaXN0b3J5IjpbLTEzMjc1MTE4NDMsMTQ3NzY0MzE4MywtMT
+AyMDQ3Njk2NSwtMTkyOTIwNDY5Niw4OTQ1ODk2NDEsMTIzODcz
+NDQwNywtMTYwMTE5OTI5NV19
 -->
