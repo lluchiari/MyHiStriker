@@ -41,6 +41,8 @@ This is where the contestant will strike the hammer. It will receive all the imp
 
 <img src="https://github.com/lluchiari/MyHiStriker/raw/master/images/img3.jpg" />
 
+In this project was developed a different striker. It consists in a base and a piston
+
 ## Electronics
 
 ## Assembly
@@ -54,7 +56,7 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI0MDMwMzgsMTQ3NzY0MzE4MywtMT
-AyMDQ3Njk2NSwtMTkyOTIwNDY5Niw4OTQ1ODk2NDEsMTIzODcz
-NDQwNywtMTYwMTE5OTI5NV19
+eyJoaXN0b3J5IjpbLTEzMjEwMjM5MTIsLTEyMTI0MDMwMzgsMT
+Q3NzY0MzE4MywtMTAyMDQ3Njk2NSwtMTkyOTIwNDY5Niw4OTQ1
+ODk2NDEsMTIzODczNDQwNywtMTYwMTE5OTI5NV19
 -->
