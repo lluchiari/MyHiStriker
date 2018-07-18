@@ -75,6 +75,7 @@ The assembly of the striker can be seen in the following image:
 
 <img style="width: 40%" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Mountage_Perspective.png" />
 
+The CAD files can be seen [Here]()
 ## Electronics
 
 ## Assembly
@@ -88,9 +89,9 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODExMjgxNiwxNzU3ODQ3Njk4LDY1Mj
-Q4OTU0LC01NTA5Mjc0MjYsMjA5NjI4NDUzNiwtMTQ5Nzk1Njc4
-MiwtMzYwMTMxMzExLDYzNjA5NTEyNywtMTIxMjQwMzAzOCwxND
-c3NjQzMTgzLC0xMDIwNDc2OTY1LC0xOTI5MjA0Njk2LDg5NDU4
-OTY0MSwxMjM4NzM0NDA3LC0xNjAxMTk5Mjk1XX0=
+eyJoaXN0b3J5IjpbLTE2MzY4MjE1MDUsMTc1Nzg0NzY5OCw2NT
+I0ODk1NCwtNTUwOTI3NDI2LDIwOTYyODQ1MzYsLTE0OTc5NTY3
+ODIsLTM2MDEzMTMxMSw2MzYwOTUxMjcsLTEyMTI0MDMwMzgsMT
+Q3NzY0MzE4MywtMTAyMDQ3Njk2NSwtMTkyOTIwNDY5Niw4OTQ1
+ODk2NDEsMTIzODczNDQwNywtMTYwMTE5OTI5NV19
 -->
