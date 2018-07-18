@@ -47,7 +47,7 @@ In this project was developed a different striker. It consists in a base, a pist
 #### Base
 The base is represented in the following figure:
 
-<img scale = "0.2" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Base.png" />
+<img sizes= "0.5" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Base.png" />
 
 ## Electronics
 
@@ -62,8 +62,8 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDQ3NDk1MCwtMzYwMTMxMzExLDYzNj
-A5NTEyNywtMTIxMjQwMzAzOCwxNDc3NjQzMTgzLC0xMDIwNDc2
-OTY1LC0xOTI5MjA0Njk2LDg5NDU4OTY0MSwxMjM4NzM0NDA3LC
-0xNjAxMTk5Mjk1XX0=
+eyJoaXN0b3J5IjpbLTEzMzM3MjAwOTcsLTM2MDEzMTMxMSw2Mz
+YwOTUxMjcsLTEyMTI0MDMwMzgsMTQ3NzY0MzE4MywtMTAyMDQ3
+Njk2NSwtMTkyOTIwNDY5Niw4OTQ1ODk2NDEsMTIzODczNDQwNy
+wtMTYwMTE5OTI5NV19
 -->
