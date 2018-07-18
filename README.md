@@ -56,7 +56,7 @@ The piston is where the hammer will hit and where the accelerometer is placed.
 
 <div class="row">
   <div class="column">
-    <img width = "40%" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Pivot.png" />
+    <img style="width: 40%" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Pivot.png" />
   </div>
   <div class="column">
    <img width = "40%" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Pivot2.png" />
@@ -78,9 +78,9 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY5MDEzNTQsLTU1MDkyNzQyNiwyMD
-k2Mjg0NTM2LC0xNDk3OTU2NzgyLC0zNjAxMzEzMTEsNjM2MDk1
-MTI3LC0xMjEyNDAzMDM4LDE0Nzc2NDMxODMsLTEwMjA0NzY5Nj
-UsLTE5MjkyMDQ2OTYsODk0NTg5NjQxLDEyMzg3MzQ0MDcsLTE2
-MDExOTkyOTVdfQ==
+eyJoaXN0b3J5IjpbMTYyNTExOTgwOSwtNTUwOTI3NDI2LDIwOT
+YyODQ1MzYsLTE0OTc5NTY3ODIsLTM2MDEzMTMxMSw2MzYwOTUx
+MjcsLTEyMTI0MDMwMzgsMTQ3NzY0MzE4MywtMTAyMDQ3Njk2NS
+wtMTkyOTIwNDY5Niw4OTQ1ODk2NDEsMTIzODczNDQwNywtMTYw
+MTE5OTI5NV19
 -->
