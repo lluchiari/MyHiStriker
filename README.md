@@ -49,21 +49,9 @@ This is where the contestant will strike the hammer. It will receive all the imp
 # Other References
 
 Other projects can be seen in:
-
-<a href="http://www.jmillerid.com/wordpress/tag/hi-striker/" />
-
-
-
-=======
-It's repo to manage the project of a Game called High Strike.
-Updates are comming........hold on!
-
+[Jmillerid Project](http://www.jmillerid.com/wordpress/tag/hi-striker/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzkxNzA3MDJdfQ==
--->
->>>>>>> 5a1efdd9355d698b0dd678a1d6c61061bb43e1fe
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzA3NDI2NCwxNDc3NjQzMTgzLC0xMD
-IwNDc2OTY1LC0xOTI5MjA0Njk2LDg5NDU4OTY0MSwxMjM4NzM0
-NDA3LC0xNjAxMTk5Mjk1XX0=
+eyJoaXN0b3J5IjpbOTk2OTgyOTg0LDE0Nzc2NDMxODMsLTEwMj
+A0NzY5NjUsLTE5MjkyMDQ2OTYsODk0NTg5NjQxLDEyMzg3MzQ0
+MDcsLTE2MDExOTkyOTVdfQ==
 -->
