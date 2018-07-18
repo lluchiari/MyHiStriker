@@ -39,6 +39,8 @@ The tower is the part where the "puck" or the "lights" is going to be placed and
 ### Striker
 This is where the contestant will strike the hammer. It will receive all the impact and measure the acceleration and send to the microcontroller. 
 
+<img src="https://github.com/lluchiari/MyHiStriker/raw/master/images/img3.jpg" />
+
 ## Electronics
 
 ## Assembly
@@ -62,7 +64,7 @@ eyJoaXN0b3J5IjpbLTE2NzkxNzA3MDJdfQ==
 -->
 >>>>>>> 5a1efdd9355d698b0dd678a1d6c61061bb43e1fe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzY0MzE4MywtMTAyMDQ3Njk2NSwtMT
-kyOTIwNDY5Niw4OTQ1ODk2NDEsMTIzODczNDQwNywtMTYwMTE5
-OTI5NV19
+eyJoaXN0b3J5IjpbMTE2MDY3MTQ5MCwxNDc3NjQzMTgzLC0xMD
+IwNDc2OTY1LC0xOTI5MjA0Njk2LDg5NDU4OTY0MSwxMjM4NzM0
+NDA3LC0xNjAxMTk5Mjk1XX0=
 -->
