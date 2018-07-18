@@ -49,7 +49,10 @@ The base is represented in the following figure:
 
 <img width = "50%" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Base.png" />
 
-It consists in an steel plate with four holes for fixation and an s
+It consists in an steel plate with four holes for fixation and an steel tube soldered in the center of the plate.
+
+#### Piston
+The piston is where the hammer will hit and where the acceler
 
 ## Electronics
 
@@ -64,8 +67,8 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Nzc1ODk5NywtMzYwMTMxMzExLDYzNj
-A5NTEyNywtMTIxMjQwMzAzOCwxNDc3NjQzMTgzLC0xMDIwNDc2
-OTY1LC0xOTI5MjA0Njk2LDg5NDU4OTY0MSwxMjM4NzM0NDA3LC
-0xNjAxMTk5Mjk1XX0=
+eyJoaXN0b3J5IjpbLTE5NjgxMDU0NTgsLTM2MDEzMTMxMSw2Mz
+YwOTUxMjcsLTEyMTI0MDMwMzgsMTQ3NzY0MzE4MywtMTAyMDQ3
+Njk2NSwtMTkyOTIwNDY5Niw4OTQ1ODk2NDEsMTIzODczNDQwNy
+wtMTYwMTE5OTI5NV19
 -->
