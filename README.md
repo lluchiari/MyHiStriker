@@ -45,7 +45,9 @@ This is where the contestant will strike the hammer. It will receive all the imp
 In this project was developed a different striker. It consists in a base, a piston, and a strong compression spring. 
 
 #### Base
+The base is represented in the following figure:
 
+<img src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/img3.jpg" />
 
 ## Electronics
 
@@ -60,8 +62,8 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDczMDgxMCwtMzYwMTMxMzExLDYzNj
-A5NTEyNywtMTIxMjQwMzAzOCwxNDc3NjQzMTgzLC0xMDIwNDc2
-OTY1LC0xOTI5MjA0Njk2LDg5NDU4OTY0MSwxMjM4NzM0NDA3LC
-0xNjAxMTk5Mjk1XX0=
+eyJoaXN0b3J5IjpbLTEzOTUxNzQ4MDIsLTM2MDEzMTMxMSw2Mz
+YwOTUxMjcsLTEyMTI0MDMwMzgsMTQ3NzY0MzE4MywtMTAyMDQ3
+Njk2NSwtMTkyOTIwNDY5Niw4OTQ1ODk2NDEsMTIzODczNDQwNy
+wtMTYwMTE5OTI5NV19
 -->
