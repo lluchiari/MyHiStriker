@@ -62,7 +62,9 @@ The piston is where the hammer will hit and where the accelerometer is placed.
   </div>
   </div>
 
-It consists in a Steel **X mm**  thick plate and a tube with **Y mm** 
+It consists in a Steel **X mm**  thick plate and a tube with **Y mm** of wall thickness. The tube is soldered at the center of the plate.
+
+Inside the tube the 
 
 ## Electronics
 
@@ -77,9 +79,9 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0Nzk0NzI5LDE3NTc4NDc2OTgsNjUyND
-g5NTQsLTU1MDkyNzQyNiwyMDk2Mjg0NTM2LC0xNDk3OTU2Nzgy
-LC0zNjAxMzEzMTEsNjM2MDk1MTI3LC0xMjEyNDAzMDM4LDE0Nz
-c2NDMxODMsLTEwMjA0NzY5NjUsLTE5MjkyMDQ2OTYsODk0NTg5
-NjQxLDEyMzg3MzQ0MDcsLTE2MDExOTkyOTVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjQ4NDEyNzAsMTc1Nzg0NzY5OCw2NT
+I0ODk1NCwtNTUwOTI3NDI2LDIwOTYyODQ1MzYsLTE0OTc5NTY3
+ODIsLTM2MDEzMTMxMSw2MzYwOTUxMjcsLTEyMTI0MDMwMzgsMT
+Q3NzY0MzE4MywtMTAyMDQ3Njk2NSwtMTkyOTIwNDY5Niw4OTQ1
+ODk2NDEsMTIzODczNDQwNywtMTYwMTE5OTI5NV19
 -->
