@@ -46,7 +46,6 @@ This is where the contestant will strike the hammer. It will receive all the imp
 ## Assembly
 
 
-<<<<<<< HEAD
 # Other References
 
 Other projects can be seen in:
@@ -64,7 +63,7 @@ eyJoaXN0b3J5IjpbLTE2NzkxNzA3MDJdfQ==
 -->
 >>>>>>> 5a1efdd9355d698b0dd678a1d6c61061bb43e1fe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDY3MTQ5MCwxNDc3NjQzMTgzLC0xMD
+eyJoaXN0b3J5IjpbMTg4MzA3NDI2NCwxNDc3NjQzMTgzLC0xMD
 IwNDc2OTY1LC0xOTI5MjA0Njk2LDg5NDU4OTY0MSwxMjM4NzM0
 NDA3LC0xNjAxMTk5Mjk1XX0=
 -->
