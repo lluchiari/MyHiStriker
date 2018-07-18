@@ -32,7 +32,9 @@ The mechanical parts consists in two main parts:
  - Tower
  - Striker
 ### Tower
-The tower is the part where the "puck" or the light are going to l
+The tower is the part where the "puck" or the light are going to be placed and is the scale that will show the points achieved by the contestant.
+
+<img src="" />
 
 ## Electronics
 
@@ -57,6 +59,6 @@ eyJoaXN0b3J5IjpbLTE2NzkxNzA3MDJdfQ==
 -->
 >>>>>>> 5a1efdd9355d698b0dd678a1d6c61061bb43e1fe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTEwMTE2Nyw4OTQ1ODk2NDEsMTIzOD
-czNDQwNywtMTYwMTE5OTI5NV19
+eyJoaXN0b3J5IjpbLTE5MjkyMDQ2OTYsODk0NTg5NjQxLDEyMz
+g3MzQ0MDcsLTE2MDExOTkyOTVdfQ==
 -->
