@@ -78,6 +78,10 @@ The assembly of the striker can be seen in the following image:
 The CAD files can be seen [here](https://github.com/lluchiari/MyHiStriker/tree/master/docs/mechanical/Striker).
 ## Electronics
 
+Electronic section is divided in:
+- Microncontroller 
+- Light Driver (can be seen [here]()
+
 ## Assembly
 
 
@@ -89,9 +93,10 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgxNTk4OTMsMTc1Nzg0NzY5OCw2NT
-I0ODk1NCwtNTUwOTI3NDI2LDIwOTYyODQ1MzYsLTE0OTc5NTY3
-ODIsLTM2MDEzMTMxMSw2MzYwOTUxMjcsLTEyMTI0MDMwMzgsMT
-Q3NzY0MzE4MywtMTAyMDQ3Njk2NSwtMTkyOTIwNDY5Niw4OTQ1
-ODk2NDEsMTIzODczNDQwNywtMTYwMTE5OTI5NV19
+eyJoaXN0b3J5IjpbMTE4NjAwMDU0OSwtMTc1ODE1OTg5MywxNz
+U3ODQ3Njk4LDY1MjQ4OTU0LC01NTA5Mjc0MjYsMjA5NjI4NDUz
+NiwtMTQ5Nzk1Njc4MiwtMzYwMTMxMzExLDYzNjA5NTEyNywtMT
+IxMjQwMzAzOCwxNDc3NjQzMTgzLC0xMDIwNDc2OTY1LC0xOTI5
+MjA0Njk2LDg5NDU4OTY0MSwxMjM4NzM0NDA3LC0xNjAxMTk5Mj
+k1XX0=
 -->
