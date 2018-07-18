@@ -69,6 +69,8 @@ Inside the tube the compress spring with ***Z mm** of diameter is introduced.
 
 > **The spring must have the same tube inner diameter.**
 
+> \* X, Y and Z are values that I need to measure in the real sample. But you can use any value you think is 
+
 The assembly of the striker can be seen in the following figure:
 
 <img style="width: 40%" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Mountage_Perspective.png" />
@@ -86,7 +88,7 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTExOTk5NSwxNzU3ODQ3Njk4LDY1Mj
+eyJoaXN0b3J5IjpbMTY0MjAzNTY2OSwxNzU3ODQ3Njk4LDY1Mj
 Q4OTU0LC01NTA5Mjc0MjYsMjA5NjI4NDUzNiwtMTQ5Nzk1Njc4
 MiwtMzYwMTMxMzExLDYzNjA5NTEyNywtMTIxMjQwMzAzOCwxND
 c3NjQzMTgzLC0xMDIwNDc2OTY1LC0xOTI5MjA0Njk2LDg5NDU4
