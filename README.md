@@ -64,7 +64,7 @@ The piston is where the hammer will hit and where the accelerometer is placed.
 
 It consists in a Steel **X mm**  thick plate and a tube with **Y mm** of wall thickness. The tube is soldered at the center of the plate.
 
-Inside the tube the 
+> **Inside the tube the compress spring is introduced. So the spring must have the same tube inner diameter.**
 
 ## Electronics
 
@@ -79,9 +79,9 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ4NDEyNzAsMTc1Nzg0NzY5OCw2NT
-I0ODk1NCwtNTUwOTI3NDI2LDIwOTYyODQ1MzYsLTE0OTc5NTY3
-ODIsLTM2MDEzMTMxMSw2MzYwOTUxMjcsLTEyMTI0MDMwMzgsMT
-Q3NzY0MzE4MywtMTAyMDQ3Njk2NSwtMTkyOTIwNDY5Niw4OTQ1
-ODk2NDEsMTIzODczNDQwNywtMTYwMTE5OTI5NV19
+eyJoaXN0b3J5IjpbLTY0MTEyNTcwMywxNzU3ODQ3Njk4LDY1Mj
+Q4OTU0LC01NTA5Mjc0MjYsMjA5NjI4NDUzNiwtMTQ5Nzk1Njc4
+MiwtMzYwMTMxMzExLDYzNjA5NTEyNywtMTIxMjQwMzAzOCwxND
+c3NjQzMTgzLC0xMDIwNDc2OTY1LC0xOTI5MjA0Njk2LDg5NDU4
+OTY0MSwxMjM4NzM0NDA3LC0xNjAxMTk5Mjk1XX0=
 -->
