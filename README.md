@@ -80,7 +80,7 @@ The CAD files can be seen [here](https://github.com/lluchiari/MyHiStriker/tree/m
 
 Electronic section is divided in:
 - Microncontroller 
-- Light Driver (can be seen [here]()
+- Light Driver (LighterBoard Project can be seen [here](https://github.com/lluchiari/LighterBoard))
 
 ## Assembly
 
@@ -93,7 +93,7 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjAwMDU0OSwtMTc1ODE1OTg5MywxNz
+eyJoaXN0b3J5IjpbMjA2MDk0NDg2MSwtMTc1ODE1OTg5MywxNz
 U3ODQ3Njk4LDY1MjQ4OTU0LC01NTA5Mjc0MjYsMjA5NjI4NDUz
 NiwtMTQ5Nzk1Njc4MiwtMzYwMTMxMzExLDYzNjA5NTEyNywtMT
 IxMjQwMzAzOCwxNDc3NjQzMTgzLC0xMDIwNDc2OTY1LC0xOTI5
