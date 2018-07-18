@@ -34,7 +34,7 @@ The mechanical parts consists in two main parts:
 ### Tower
 The tower is the part where the "puck" or the light are going to be placed and is the scale that will show the points achieved by the contestant.
 
-<img src="" />
+<img src="https://github.com/lluchiari/MyHiStriker/raw/master/images/img2.jpg" />
 
 ## Electronics
 
@@ -59,6 +59,6 @@ eyJoaXN0b3J5IjpbLTE2NzkxNzA3MDJdfQ==
 -->
 >>>>>>> 5a1efdd9355d698b0dd678a1d6c61061bb43e1fe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkyMDQ2OTYsODk0NTg5NjQxLDEyMz
-g3MzQ0MDcsLTE2MDExOTkyOTVdfQ==
+eyJoaXN0b3J5IjpbMTE2MzcyMjYyMywtMTkyOTIwNDY5Niw4OT
+Q1ODk2NDEsMTIzODczNDQwNywtMTYwMTE5OTI5NV19
 -->
