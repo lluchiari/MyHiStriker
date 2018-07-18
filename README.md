@@ -89,7 +89,8 @@ In this project was used an [Arduino Nano](https://store.arduino.cc/usa/arduino-
 ### Light Driver
 The Driver used is described in other project. It can be see in this [link](https://github.com/lluchiari/LighterBoard).
 
-### Light Driver
+### Accelerometer
+The accelerometer used was an [MMA7361L](https://www.nxp.com/docs/en/data-sheet/MMA7361L.pdf).
 
 ## Assembly
 
@@ -102,7 +103,7 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTEyNzcwNjksLTE3NTgxNTk4OTMsMT
+eyJoaXN0b3J5IjpbLTIwNDMyMjAwNjUsLTE3NTgxNTk4OTMsMT
 c1Nzg0NzY5OCw2NTI0ODk1NCwtNTUwOTI3NDI2LDIwOTYyODQ1
 MzYsLTE0OTc5NTY3ODIsLTM2MDEzMTMxMSw2MzYwOTUxMjcsLT
 EyMTI0MDMwMzgsMTQ3NzY0MzE4MywtMTAyMDQ3Njk2NSwtMTky
