@@ -62,7 +62,7 @@ The piston is where the hammer will hit and where the accelerometer is placed.
   </div>
   </div>
 
-It consists in a Steel thicker plate and 
+It consists in a Steel thick plate and 
 
 ## Electronics
 
@@ -77,9 +77,9 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Nzg0NzY5OCw2NTI0ODk1NCwtNTUwOT
-I3NDI2LDIwOTYyODQ1MzYsLTE0OTc5NTY3ODIsLTM2MDEzMTMx
-MSw2MzYwOTUxMjcsLTEyMTI0MDMwMzgsMTQ3NzY0MzE4MywtMT
-AyMDQ3Njk2NSwtMTkyOTIwNDY5Niw4OTQ1ODk2NDEsMTIzODcz
-NDQwNywtMTYwMTE5OTI5NV19
+eyJoaXN0b3J5IjpbMTkxMzk3ODU5MSwxNzU3ODQ3Njk4LDY1Mj
+Q4OTU0LC01NTA5Mjc0MjYsMjA5NjI4NDUzNiwtMTQ5Nzk1Njc4
+MiwtMzYwMTMxMzExLDYzNjA5NTEyNywtMTIxMjQwMzAzOCwxND
+c3NjQzMTgzLC0xMDIwNDc2OTY1LC0xOTI5MjA0Njk2LDg5NDU4
+OTY0MSwxMjM4NzM0NDA3LC0xNjAxMTk5Mjk1XX0=
 -->
