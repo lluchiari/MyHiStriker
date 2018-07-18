@@ -53,11 +53,11 @@ It consists in an steel plate with four holes for fixation and an steel tube sol
 
 #### Piston
 The piston is where the hammer will hit and where the accelerometer is placed.
-<table sborder:  0px; padding:  0px;">
-	<th style="border:  0px; padding:  0px;">
+<table border="0">
+	<th border="0">
 		<img width = "40%" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Pivot.png" />
 	</th>
-	<th style="border:  0px; padding:  0px;">
+	<th border="0">
 		<img width = "40%" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Pivot.png" />
 	</th>
 </table>
@@ -77,7 +77,7 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODgwODgxNywtMTQ5Nzk1Njc4MiwtMz
+eyJoaXN0b3J5IjpbMjA5NjI4NDUzNiwtMTQ5Nzk1Njc4MiwtMz
 YwMTMxMzExLDYzNjA5NTEyNywtMTIxMjQwMzAzOCwxNDc3NjQz
 MTgzLC0xMDIwNDc2OTY1LC0xOTI5MjA0Njk2LDg5NDU4OTY0MS
 wxMjM4NzM0NDA3LC0xNjAxMTk5Mjk1XX0=
