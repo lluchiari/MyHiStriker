@@ -84,8 +84,10 @@ Electronic section is divided in:
 - Accelerometer;
 
 ### Microncontroller
-In this project was used an [Arduino Nano](https://store.arduino.cc/usa/arduino-uno-rev3)
+In this project was used an [Arduino Nano](https://store.arduino.cc/usa/arduino-nano), but feel free to use any other Arduino or microcontroller you desire.
 
+### Light Driver
+The LED, Light, Driver 
 ## Assembly
 
 
@@ -97,10 +99,10 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc3MDgyNTgsLTE3NTgxNTk4OTMsMT
-c1Nzg0NzY5OCw2NTI0ODk1NCwtNTUwOTI3NDI2LDIwOTYyODQ1
-MzYsLTE0OTc5NTY3ODIsLTM2MDEzMTMxMSw2MzYwOTUxMjcsLT
-EyMTI0MDMwMzgsMTQ3NzY0MzE4MywtMTAyMDQ3Njk2NSwtMTky
-OTIwNDY5Niw4OTQ1ODk2NDEsMTIzODczNDQwNywtMTYwMTE5OT
-I5NV19
+eyJoaXN0b3J5IjpbLTY3NzA3MTk1LC0xNzU4MTU5ODkzLDE3NT
+c4NDc2OTgsNjUyNDg5NTQsLTU1MDkyNzQyNiwyMDk2Mjg0NTM2
+LC0xNDk3OTU2NzgyLC0zNjAxMzEzMTEsNjM2MDk1MTI3LC0xMj
+EyNDAzMDM4LDE0Nzc2NDMxODMsLTEwMjA0NzY5NjUsLTE5Mjky
+MDQ2OTYsODk0NTg5NjQxLDEyMzg3MzQ0MDcsLTE2MDExOTkyOT
+VdfQ==
 -->
