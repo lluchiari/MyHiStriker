@@ -49,7 +49,7 @@ The base is represented in the following figure:
 
 <img width = "50%" src="https://github.com/lluchiari/MyHiStriker/raw/master/docs/mechanical/Striker/parts/Base.png" />
 
-It consists in an 
+It consists in an steel plate with four holes for fixation and an s
 
 ## Electronics
 
@@ -64,7 +64,7 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDIwMDc5NSwtMzYwMTMxMzExLDYzNj
+eyJoaXN0b3J5IjpbMTk0Nzc1ODk5NywtMzYwMTMxMzExLDYzNj
 A5NTEyNywtMTIxMjQwMzAzOCwxNDc3NjQzMTgzLC0xMDIwNDc2
 OTY1LC0xOTI5MjA0Njk2LDg5NDU4OTY0MSwxMjM4NzM0NDA3LC
 0xNjAxMTk5Mjk1XX0=
