@@ -87,7 +87,7 @@ Electronic section is divided in:
 In this project was used an [Arduino Nano](https://store.arduino.cc/usa/arduino-nano), but feel free to use any other Arduino or microcontroller you desire.
 
 ### Light Driver
-The Driver used is described in other project. It can be see in this [link](https://github.com/lluchiari/LighterBoard).
+The Driver used is described in another project. It can be see in this [link](https://github.com/lluchiari/LighterBoard).
 
 ### Accelerometer
 The accelerometer used was an [MMA7361L](https://www.nxp.com/docs/en/data-sheet/MMA7361L.pdf).
@@ -103,10 +103,10 @@ Other projects can be seen in:
 Other Ideas can be seen in:
 - Blablabla
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMyMjAwNjUsLTE3NTgxNTk4OTMsMT
-c1Nzg0NzY5OCw2NTI0ODk1NCwtNTUwOTI3NDI2LDIwOTYyODQ1
-MzYsLTE0OTc5NTY3ODIsLTM2MDEzMTMxMSw2MzYwOTUxMjcsLT
-EyMTI0MDMwMzgsMTQ3NzY0MzE4MywtMTAyMDQ3Njk2NSwtMTky
-OTIwNDY5Niw4OTQ1ODk2NDEsMTIzODczNDQwNywtMTYwMTE5OT
-I5NV19
+eyJoaXN0b3J5IjpbLTIxMDMwNzY1OTYsLTIwNDMyMjAwNjUsLT
+E3NTgxNTk4OTMsMTc1Nzg0NzY5OCw2NTI0ODk1NCwtNTUwOTI3
+NDI2LDIwOTYyODQ1MzYsLTE0OTc5NTY3ODIsLTM2MDEzMTMxMS
+w2MzYwOTUxMjcsLTEyMTI0MDMwMzgsMTQ3NzY0MzE4MywtMTAy
+MDQ3Njk2NSwtMTkyOTIwNDY5Niw4OTQ1ODk2NDEsMTIzODczND
+QwNywtMTYwMTE5OTI5NV19
 -->
